@@ -81,9 +81,3 @@ var addTask = function(task) {
 
 
 });
-
-
-// provide a backgraound image loading tool so that people can pixilate any image
-// provide a dynamic color selector instead of static colors. allow settings, 8-bit, 16-bit, 32-bit, or 64-bit color schemes
-// ideally anyone could essentially trace over their favorite characters and images to transform them into 8 bit characters.
-// maybe have a button that automatically 8-bits images.
